@@ -1,0 +1,280 @@
+{
+    "Canelones": [
+      {
+        "nombre": "JAQUINOT",
+        "direccion": "Av.Artigas y Rep.Argentina, Atlántida, Canelones",
+        "telefono": "4372 22 30"
+      },
+      {
+        "nombre": "VETERINARIA PLAZA",
+        "direccion": "José Enrique Rodó 439, Canelones",
+        "telefono": "099 331 169"
+      },
+      {
+        "nombre": "VETERINARIA EL RELINCHO",
+        "direccion": "Ruta 11 KM 165.500, Atlántida, Canelones",
+        "telefono": "4372 67 97"
+      },
+      {
+        "nombre": "VETERINARIA EL ORIENTAL",
+        "direccion": "César Mayo Gutiérrez 383, La Paz, Canelones",
+        "telefono": "2362 33 13"
+      },
+      {
+        "nombre": "TRILLO",
+        "direccion": "Av. Treinta y Tres Esq. Argentina M12 S8, La Floresta, Canelones",
+        "telefono": "099 992 788"
+      }
+    ],
+    "Cerro Largo": [
+      {
+        "nombre": "ARACHANA",
+        "direccion": "Treinta y Tres 299, Melo, Cerro Largo",
+        "telefono": "099 028 362"
+      }
+    ],
+    "Colonia": [
+      {
+        "nombre": "VET & SHOP LA COLONIAL",
+        "direccion": "Baltasar Brum 708, Colonia",
+        "telefono": "4522 71 89"
+      },
+      {
+        "nombre": "DR. SEBASTIAN VAZQUEZ",
+        "direccion": "F.J. Carballo 2024, Colonia",
+        "telefono": "4522 15 81"
+      },
+      {
+        "nombre": "RONALD SANTELLAN",
+        "direccion": "Perú 1170 Esq. General Artigas, Nueva Palmira, Colonia",
+        "telefono": "099 092 984"
+      }
+    ],
+    "Durazno": [
+      {
+        "nombre": "VETERINARIA LA CUCHA",
+        "direccion": "Gral. Fructuoso Rivera 323, Durazno",
+        "telefono": "099 140 119"
+      }
+    ],
+    "Maldonado": [
+      {
+        "nombre": "DR. RAFAEL CUADRADO",
+        "direccion": "Calle 28, Balneario Buenos Aires, Maldonado",
+        "telefono": "4277 56 89"
+      },
+      {
+        "nombre": "EL ARRIERO",
+        "direccion": "Rivera 835, Pan de Azúcar, Maldonado",
+        "telefono": "2400 47 24"
+      },
+      {
+        "nombre": "PIRIAPOLIS",
+        "direccion": "Av. Piria Esq. Buenos Aires, Piriápolis, Maldonado",
+        "telefono": "4432 43 97"
+      },
+      {
+        "nombre": "VETERINARIA DON MATEO",
+        "direccion": "Cno. Lussich a Pasos Rotonda Cerro Pelado, Maldonado",
+        "telefono": "4225 0690"
+      },
+      {
+        "nombre": "VETERINARIA EL CHURRINCHE",
+        "direccion": "Av. Misiones esquina, 20200, Piriápolis, Maldonado",
+        "telefono": "095 190 716"
+      }
+    ],
+    "Montevideo": [
+      {
+        "nombre": "ENTRE PERROS Y GATOS ",
+        "direccion": "Canelones 1350 Esq. Ejido, Montevideo",
+        "telefono": "29013966"
+      },
+      {
+        "nombre": "EL RASTRO",
+        "direccion": "Avda. del Libertador 1630, Montevideo",
+        "telefono": "29081208"
+      },
+      {
+        "nombre": "PETSTORE",
+        "direccion": "21 de Septiembre 2949, Montevideo",
+        "telefono": "2712 36 06"
+      },
+      {
+        "nombre": "VETERINARIA LAS GARZAS",
+        "direccion": "Goes 2303, Montevideo",
+        "telefono": "2401 43 43"
+      },
+      {
+        "nombre": "AMI",
+        "direccion": "Agraciada 3077 D, Montevideo",
+        "telefono": "2209 98 26"
+      },
+      {
+        "nombre": "PIERINA ARBESU",
+        "direccion": "Gustavo Gallinal 2066, Montevideo",
+        "telefono": "2200 06 71"
+      },
+      {
+        "nombre": "CALICE",
+        "direccion": "E.Acevedo 1203 Esq. Constituyente, Montevideo",
+        "telefono": "2403 55 59"
+      },
+      {
+        "nombre": "MUNDO BICHO",
+        "direccion": "Juan José De Amézaga 2106 A, Montevideo",
+        "telefono": "098 832 876"
+      },
+      {
+        "nombre": "LABRADORA",
+        "direccion": "Comercio 2242, Montevideo",
+        "telefono": "2509 49 30"
+      },
+      {
+        "nombre": "RIVERA",
+        "direccion": "Rivera 2840, Montevideo",
+        "telefono": "2706 60 64"
+      },
+      {
+        "nombre": "CHARRUAS",
+        "direccion": "Jackson 1252, Montevideo",
+        "telefono": "2409 61 62"
+      },
+      {
+        "nombre": "8 DE OCTUBRE",
+        "direccion": "Camino Maldonado 5562 Esq. Ombú, Montevideo",
+        "telefono": "2513 05 53"
+      },
+      {
+        "nombre": "GENERAL PAZ",
+        "direccion": "Gral. Paz 1540, Montevideo",
+        "telefono": "2604 20 72"
+      },
+      {
+        "nombre": "PET PLANETA",
+        "direccion": "Av. Italia 5572, Montevideo",
+        "telefono": "2604 15 04"
+      },
+      {
+        "nombre": "REDUCTENSE",
+        "direccion": "Millán 2591, Montevideo",
+        "telefono": "2204 13 23"
+      },
+      {
+        "nombre": "REHAFIVET",
+        "direccion": "Dr. Luis Piera 1919, Montevideo",
+        "telefono": "099 598 186"
+      },
+      {
+        "nombre": "SANTA MONICA",
+        "direccion": "Máximo Tajes 7012, Montevideo",
+        "telefono": "2600 82 00"
+      },
+      {
+        "nombre": "PRADO",
+        "direccion": "Joaquín Suarez 3401, Montevideo",
+        "telefono": "2336 44 40"
+      },
+      {
+        "nombre": "VILLA DOLORES",
+        "direccion": "Rivera 3142, Montevideo",
+        "telefono": "2622 89 94"
+      },
+      {
+        "nombre": "VETERINARIA TOTORAL",
+        "direccion": "Av. Agraciada 3641, Montevideo",
+        "telefono": "2306 05 24"
+      },
+      {
+        "nombre": "ANSDEL",
+        "direccion": "Av. Gral. Flores 3421, Montevideo",
+        "telefono": "2208 15 15"
+      },
+      {
+        "nombre": "LA DILIGENCIA",
+        "direccion": "Obligado 1100, Montevideo",
+        "telefono": "2709 51 33"
+      },
+      {
+        "nombre": "VETERINARIA SANSA",
+        "direccion": "Pasaje 352 VIV Felipe Cardozo, Montevideo",
+        "telefono": "2522 59 86"
+      },
+      {
+        "nombre": "DELFINES",
+        "direccion": "Lauro Müller 1738, esq. Yaro, Montevideo",
+        "telefono": "2411 32 02"
+      },
+      {
+        "nombre": "VETERINARIA SANTA MÓNICA",
+        "direccion": "Gral. Máximo Tajes 7012, Montevideo",
+        "telefono": "2600 82 00"
+      },
+      {
+        "nombre": "VETERINARIA ALEM",
+        "direccion": "José Ellauri 333, Montevideo",
+        "telefono": "092 297 210"
+      },
+      {
+        "nombre": "VETERINARIA ALEM",
+        "direccion": "Lázaro Gadea 903, Montevideo",
+        "telefono": "093 614 029"
+      },
+      {
+        "nombre": "VETERINARIA ALEM",
+        "direccion": "Cno. Maldonado 6837, Montevideo",
+        "telefono": "092 252 121"
+      }
+    ],
+    "Paysandú": [
+      {
+        "nombre": "ANIMALITOS PAY",
+        "direccion": "Sarandí 1583, Paysandú",
+        "telefono": "091 376 500"
+      },
+      {
+        "nombre": "ANTONELLA GARGANO",
+        "direccion": "Uruguay 1512, Paysandú",
+        "telefono": "4724 19 26"
+      },
+      {
+        "nombre": "PERRO VERDE",
+        "direccion": "Av. Artigas 1429, Paysandú",
+        "telefono": "4725 15 10"
+      }
+    ],
+    "Rivera": [
+      {
+        "nombre": "PROBICHOS",
+        "direccion": "Ituzaingó 701, Rivera",
+        "telefono": "4623 48 91"
+      }
+    ],
+    "Rocha": [
+      {
+        "nombre": "HUELLA",
+        "direccion": "Ramirez 244, Rocha",
+        "telefono": "091 332 297"
+      },
+      {
+        "nombre": "LO DE MARCELO",
+        "direccion": "Br. Santa Teresa y Francia, Punta del Diablo, Rocha",
+        "telefono": "4477 26 15"
+      }
+    ],
+    "Soriano": [
+      {
+        "nombre": "LA YUNTA",
+        "direccion": "Grito De Asencio 12, Dolores, Soriano",
+        "telefono": "4534 56 62"
+      }
+    ],
+    "Tacuarembó": [
+      {
+        "nombre": "IRENE DE LOS SANTOS",
+        "direccion": "18 de Julio 1113, Paso de los Toros, Tacuarembó",
+        "telefono": "4664 44 18"
+      }
+    ]
+  }
+  
